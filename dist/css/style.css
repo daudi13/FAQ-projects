@@ -108,7 +108,6 @@ button .fa-chevron-down {
 
 .faq.active button .fa-chevron-down {
   display: block;
-  background: #555;
   padding: 5px;
   border-radius: 50%;
 }
